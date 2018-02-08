@@ -1,4 +1,4 @@
-package com.yisutech.framework.dynamic.start;
+package com.yisutech.framework.dynamic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
