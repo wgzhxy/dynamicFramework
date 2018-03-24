@@ -28,6 +28,7 @@
     <modules>
         <module>start</module>
         <module>dynamic</module>
+        <module>groovy_script</module>
     </modules>
 
     <dependencies>
